@@ -10,7 +10,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScdo1wI6s9nh3UWMMtc9-BzIAaFPW-35RxN_Q-R
 Good luck our dear Android developers 💚
 <hr>
 
-### بونص!
+## بونص!
 
 <br>
 1. أضف زر ثاني RESET كما هو موضح في الصورة الموضحة ادنى لإعادة الآلة الحاسبة فارغة من جديد
