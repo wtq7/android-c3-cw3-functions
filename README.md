@@ -38,7 +38,7 @@
 <br>
 و كالعاده مساعدة خفيفة 😉: 
 <br>
--إضافة android:textAllCapsandroid في ملف XML 
+-إضافة android:textAllCaps في ملف XML 
 <br>
 <br>
 <hr>
