@@ -2,7 +2,8 @@
 <div dir = "rtl">
 
 #  تمرين - رقم 3
-## إقرأ الأسئلة التالية و قم بكتابة رمز الجواب الصحيح 
+## قم بالإجابة على الاسئلة في الرابط أدناه:
+https://docs.google.com/forms/d/e/1FAIpQLScdo1wI6s9nh3UWMMtc9-BzIAaFPW-35RxN_Q-RuC2eMjuzvg/viewform?usp=sf_link
 ### س1 ما هو العنصر الذي يجعل المستخدم يدخل المعلومات؟  
 1. TextView
 2. EditText
