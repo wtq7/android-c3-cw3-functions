@@ -3,8 +3,7 @@
 
 #  تمرين مسار الأندرويد الثالث 💚
 ## :قم بالإجابة على الاسئلة في الرابط أدناه:
-https://docs.google.com/forms/d/e/1FAIpQLScdo1wI6s9nh3UWMMtc9-BzIAaFPW-35RxN_Q-RuC2eMjuzvg/viewform?usp=sf_link
-
+shorturl.at/dgvIW
 
 <hr>
 <h2>
