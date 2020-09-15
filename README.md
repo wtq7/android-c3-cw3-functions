@@ -10,7 +10,7 @@
  قم بعمل واجهة التطبيق في الصورة أدناه:
 <h2>
 <p align="center">
-<img src = "https://lh5.googleusercontent.com/yzGyJV9J1xSMIcy9IaVgfxmgGvdAI9ZhJmWJjVbXmBRvTn22TdEDDisGpdCXn3dAdbdj9xk5qGgxVD5Esw64AwN4iJTv0z_Q4_lLyVBdcLnigyhbfMrqQ3EfcoLi7ThjdBx-kNQhZqs" width = ""350 px" margin="auto"/>
+<img src = "https://media.discordapp.net/attachments/745956448831275079/755413199079080036/Screen_Shot_2020-09-15_at_4.00.29_PM.png?width=323&height=671" width = ""350 px" margin="auto"/>
 </p> 
 
 <hr>
